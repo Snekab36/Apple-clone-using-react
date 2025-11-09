@@ -1,4 +1,4 @@
-const Nav = () => {
+const Navbar = () => {
   const menuItems = ["Store", "Mac", "iPad", "iPhone", "Watch", "AirPods", "TV & Home", "Entertainment", "Accessories", "Support"];
   
   return (
@@ -13,4 +13,4 @@ const Nav = () => {
   );
 };
 
-export default Nav;
+export default Navbar;

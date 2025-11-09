@@ -1,4 +1,4 @@
-import Button from "./Button";
+import Button from "./Button.jsx";
 const Hero = () => {
   return (
     <section className="text-center bg-black text-white py-20">
